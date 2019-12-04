@@ -1,5 +1,7 @@
 package com.wanghao.MyTest;
 
 public class MyTest {
-
+	public static void main(String[] args) {
+		
+	}
 }
